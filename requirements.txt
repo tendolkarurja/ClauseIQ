@@ -1,0 +1,7 @@
+langchain
+groq
+pymupdf
+langchain-groq
+dotenv
+sentence-transformers
+transformers torch
